@@ -1,0 +1,9 @@
+C:\Users\Saša\source\repos\Milka\Milka\bin\Debug\Milka.exe.config
+C:\Users\Saša\source\repos\Milka\Milka\bin\Debug\Milka.exe
+C:\Users\Saša\source\repos\Milka\Milka\bin\Debug\Milka.pdb
+C:\Users\Saša\source\repos\Milka\Milka\obj\Debug\Milka.csproj.CoreCompileInputs.cache
+C:\Users\Saša\source\repos\Milka\Milka\obj\Debug\Milka.exe
+C:\Users\Saša\source\repos\Milka\Milka\obj\Debug\Milka.pdb
+C:\Users\Saša\source\repos\Milka\Milka\bin\Debug\tags.txt
+C:\Users\Saša\source\repos\Milka\Milka\obj\Debug\Milka.csprojResolveAssemblyReference.cache
+C:\Users\Saša\source\repos\Milka\Milka\bin\Debug\data.csv
